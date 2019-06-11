@@ -17,3 +17,10 @@ Due to the number of technical problems and the extent of setup and operation, t
 | 1pm? | Food? Coffee? | Food? Coffee? |
 | 5pm | Freeze scroreboard | Day 1 End |
 
+| Day 2 | Gold Team | Participants |
+| ----------- | ----------- | -----------|
+| 8am | Setup & Test Networks | Breakfast meetup |
+| 9am | GO! | GO! |
+| 1pm? | Food? Coffee? | Food? Coffee? |
+| 4pm | Final Results; Debrief | Day 2 End; Debrief |
+| 4pm-5pm | Red Team's Tricks and Blue Team's Traps | Stay and learn the secrets! |
