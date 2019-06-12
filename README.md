@@ -32,7 +32,6 @@ You can participate in a number of ways:
 - Gold Team - Up to 4 people helping run the ESXi machines, scroebot, and infrastructure.
 - Gray Team - A user who can hunt for flags and solve puzzles on the servers being safeguarded by the Blue Team. But beware, your puzzle machines might be down a good percentage of the time due to Red Team's efforts!
 - Volunteer - help with water, food, table setup, cleanup, documenting, cables, projectors, check-in, physical security, and more.
-- DJ - Got the skills and gear to drop the groovebeat tracks like they run at DEFCON? Come be the featured artist of the event!
 
 All slots/tickets are free, and all roles are unpaid.
 Got any other creative ideas? Let us know!
