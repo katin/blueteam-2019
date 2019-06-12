@@ -24,3 +24,17 @@ Due to the number of technical problems and the extent of setup and operation, t
 | 1pm? | Food? Coffee? | Food? Coffee? |
 | 4pm | Final Results; Debrief | Day 2 End; Debrief |
 | 4pm-5pm | Red Team's Tricks and Blue Team's Traps | Stay and learn the secrets! |
+
+## Roles
+You can participate in a number of ways:
+- Blue Team Player - laptop with working VPN software requireed, but any level of hacker skill welcome. Guard and fix your servers while the Red Team tries to sneak in and take them over!
+- Read Team Player - Up to 4 people appointed to be Red Team players.
+- Gold Team - Up to 4 people helping run the ESXi machines, scroebot, and infrastructure.
+- Gray Team - A user who can hunt for flags and solve puzzles on the servers being safeguarded by the Blue Team. But beware, your puzzle machines might be down a good percentage of the time due to Red Team's efforts!
+- Volunteer - help with water, food, table setup, cleanup, documenting, and more.
+- DJ - Got the skills and gear to mixup the background tracks like they run at DEFCON? Come be the featured artist of the event!
+
+All slots/tickets are free, and all roles are unpaid.
+Got any other creative ideas? Let us know!
+Let's have a great time, learn a ton, and salve our sadness at missing DEFCON 27.
+
